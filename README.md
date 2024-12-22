@@ -1,4 +1,6 @@
-## Hi there 👋
+## ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World;Second+line+of+text)
+
+![Visitor Count](https://profile-counter.glitch.me/NGLSG/count.svg)
 
 <!--
 **NGLSG/NGLSG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
