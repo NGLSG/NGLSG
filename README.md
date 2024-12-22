@@ -4,7 +4,7 @@
 
 </div>
 
-![Preview](./images/bg.webp)
+![Preview](./images/nbg.webp)
 
 ### Hi!👋 I'm NGLSG🎀
 
