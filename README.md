@@ -45,13 +45,13 @@ Hehe~ another cutie has been caught.
 <!-- <br><br><br><br> -->
 ## **📫 Contact**
 <a href="https://github.com/NGLSG"><img align="right" width="100" src="./images/mahiro_box.png" /></a>
-**Please Contact me on Discord for a quick response:** [NGLSG](https://discord.com/users/738748102311280681)
+**Please Contact me on Discord for a quick response:** [NGLSG](https://discord.com/users/762666152487813121)
 
 **You can also email me here:** gug777514@gmail.com
 
 <!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=NGLSG"> -->
 [![](https://img.shields.io/github/followers/NGLSG?label=Followers&style=social)](https://github.com/NGLSG)
-[![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/)
+[![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)]([https://discord.gg/](https://discord.com/users/762666152487813121))
 [![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199222264078/)
 [![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:gug777514@gmail.com)
 <!-- [![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/NGLSG) -->
