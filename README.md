@@ -51,7 +51,7 @@ Hehe~ another cutie has been caught.
 
 <!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=NGLSG"> -->
 [![](https://img.shields.io/github/followers/NGLSG?label=Followers&style=social)](https://github.com/NGLSG)
-[![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)]([https://discord.gg/](https://discord.com/users/762666152487813121))
+[![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)]([https://discord.gg/](https://discord.com/users/762666152487813121)
 [![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199222264078/)
 [![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:gug777514@gmail.com)
 <!-- [![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/NGLSG) -->
