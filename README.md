@@ -47,16 +47,17 @@ Hehe~ another cutie has been caught.
 <a href="https://github.com/NGLSG"><img align="right" width="100" src="./images/mahiro_box.png" /></a>
 **Please Contact me on Discord for a quick response:** [NGLSG](https://discord.com/users/738748102311280681)
 
-**You can also email me here:** mizuneenee@gmail.com
+**You can also email me here:** gug777514@gmail.com
 
 <!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=NGLSG"> -->
 [![](https://img.shields.io/github/followers/NGLSG?label=Followers&style=social)](https://github.com/NGLSG)
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/)
-[![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/NGLSG)
-[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:mizuneenee@gmail.com)
+[![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199222264078/)
+[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:gug777514@gmail.com)
 <!-- [![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/NGLSG) -->
 <!-- [![](https://img.shields.io/badge/Kofi-ff5c5a?logo=ko-fi&logoColor=white)](https://ko-fi.com/NGLSG) -->
 <!-- [![NGLSG](https://mizu.is-a.dev/public/NGLSG.png)](https://mizu.is-a.dev/) -->
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NGLSG/NGLSG/output/github-contribution-grid-snake-dark.svg">
